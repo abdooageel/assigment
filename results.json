@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "Center Number": 31001,
+    "Center Name": "مدرسة شهداء عين الغزالة",
+    "Valid Votes": 140
+  },
+  {
+    "id": 2,
+    "Center Number": 31002,
+    "Center Name": "مدرسة الفضيل بوعمر",
+    "Valid Votes": 507
+  },
+  {
+    "id": 3,
+    "Center Number": 31003,
+    "Center Name": "مدرسة الشهيد رجب بوحويش",
+    "Valid Votes": 128
+  },
+  {
+    "id": 4,
+    "Center Number": 31004,
+    "Center Name": "مدرسة المرصص",
+    "Valid Votes": 225
+  },
+  {
+    "id": 5,
+    "Center Number": 31005,
+    "Center Name": "مدرسة موسي اهويدي",
+    "Valid Votes": 228
+  },
+  {
+    "id": 6,
+    "Center Number": 31006,
+    "Center Name": "مدرسة القدس",
+    "Valid Votes": 451
+  },
+  {
+    "id": 7,
+    "Center Number": 31007,
+    "Center Name": "مدرسة الزهور",
+    "Valid Votes": 670
+  },
+  {
+    "id": 8,
+    "Center Number": 31008,
+    "Center Name": "مدرسة اسامة بن زيد",
+    "Valid Votes": 391
+  },
+  {
+    "id": 9,
+    "Center Number": 31009,
+    "Center Name": "مدرسة عمر المختار",
+    "Valid Votes": 577
+  },
+  {
+    "id": 10,
+    "Center Number": 31010,
+    "Center Name": "مدرسة فاطمة الزهراء",
+    "Valid Votes": 607
+  }
+]
